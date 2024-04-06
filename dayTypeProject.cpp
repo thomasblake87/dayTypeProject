@@ -8,7 +8,7 @@ using namespace std;
 * Basically the code should ask you what day you want to start with, you can input any day of the week. If you don't input a day, it will default to Sunday.
 * After inputting the day, the code will print the day you inputted, and print the previous and next days.
 * It will then set the day to Monday, and index 3 days after monday, 30 days after monday, and 365 days after monday.
-* It will print the day for all 3. f
+* It will print the day for all 3.
 */
 
 int main() {
