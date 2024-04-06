@@ -70,3 +70,6 @@ void dayType::addDays(int numDays) {
     }
     day = aDay[index];
 }
+
+
+//dsafs
